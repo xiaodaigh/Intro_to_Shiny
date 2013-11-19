@@ -1,0 +1,5 @@
+<config>
+<resourceURL>./{appName}/presentation/</resourceURL>
+<fontServerURL>./{appName}/presentation/</fontServerURL>
+<webServiceURL>http://app.sliderocket.com//app/</webServiceURL>
+</config>
